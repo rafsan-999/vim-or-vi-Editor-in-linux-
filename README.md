@@ -1,4 +1,4 @@
-# vi-Editor-in-linux
+# vim/vi-Editor-in-linux
 To open a file using vi /vim simply type vi [filename] for example: vi test
 * Press i to enter insert mode
 * To delete all the lines of the file,use the following command and press enter to execute it:
