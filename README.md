@@ -4,7 +4,8 @@ To open a file using vi /vim simply type vi [filename] for example: vi test
 * To delete all the lines of the file,use the following command and press enter to execute it:
 
       :%d
-* Undo Changes in Vim / Vi
-Press u
-* Redo Changes in Vim / Vi
-Press ctrl+r
+* Undo Changes in Vim / Vi Press u
+* Redo Changes in Vim / Vi Press ctrl+r
+* Save changes and exit the Vim/vi editor:
+
+      :wq!
